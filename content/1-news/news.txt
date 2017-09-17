@@ -3,3 +3,15 @@ Title: News
 ----
 
 Text: What's new at Corrimal SLSC
+
+----
+
+Genericicon: news-icon.png
+
+----
+
+Pagination: 0
+
+----
+
+Paginationlimit: 4
